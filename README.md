@@ -17,7 +17,7 @@ The @ function that implements web chat is detailed below
 
 ## How to achieve
 
-Previously used is the low version of ```react```, this time with a new API (```hooks```) upgraded, in addition, the rich text editor with ```kindeditor`` `, and ```jquery```, including ```caret``` to solve the problem of following the cursor position.
+Previously used is the low version of ```react```, this time with a new API (```hooks```) upgraded, in addition, the rich text editor with ```kindeditor```, and ```jquery```, including ```caret``` to solve the problem of following the cursor position.
 
 
 ## example
