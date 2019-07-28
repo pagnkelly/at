@@ -9,11 +9,22 @@
 The @ function that implements web chat is detailed below
 
    - List of members after @
+
    - Press the backspace key to delete all member names
+
    - Support click and keyboard up and down keys
    Aite list dynamic follow
 
 ## example
+
+  - clone project opens index.html in dist
+
+  - start the project
+
+  ```shell
+    npm install | yarn install
+    npm start
+  ```
 
 ## Questions and feedback
 

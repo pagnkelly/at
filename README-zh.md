@@ -15,6 +15,14 @@
   
 ## 例子
 
+ - clone工程打开dist中的index.html
+
+ - 启动工程
+
+ ```shell
+    npm install | yarn install
+    npm start
+ ```
 
 ## 问题与反馈
 
